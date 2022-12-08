@@ -33,3 +33,4 @@ Further, this is the description for the data sets:
 -   This means, your classifier misclassification rate has to beat 10% to be considered a better than a chance classifier."
 
 Ultimately, our goal is to undergo a systematic process to classify rather an accident is "SEVERE" or "MILD"
+
