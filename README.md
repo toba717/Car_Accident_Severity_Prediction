@@ -3,7 +3,7 @@ Generated handful of machine learning models to classify the severity of car acc
 
 
 Models used:
-- KNN model
+- k-Nearest Neighbor (KNN) classification
 - Logistic Regression
 - Decision Tree
 - Pruned Decision Tree
