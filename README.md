@@ -1,5 +1,15 @@
 # Car_Accident_Severity_Prediction
+
+Note that this repository includes: 
+- R Markdown (.Rmd)
+- Knitted pdf from markdown (.pdf)
+- Dataset used (.csv)
+- Generated Presentation (.pdf)
+- Research Report (.pdf)
+
+
 Generated handful of machine learning models to classify the severity of car accidents nationwide
+
 
 
 Models used:
