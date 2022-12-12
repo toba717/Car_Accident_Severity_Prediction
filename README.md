@@ -1,6 +1,6 @@
 # Car_Accident_Severity_Prediction
 
-Note that this repository includes: 
+This repository contains the following: 
 - R Markdown (.Rmd)
 - Knitted pdf from markdown (.pdf)
 - Dataset used (.csv)
