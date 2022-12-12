@@ -44,4 +44,3 @@ Further, this is the description for the data sets:
 
 Ultimately, our goal is to undergo a systematic process to classify rather an accident is "SEVERE" or "MILD"
 
-
